@@ -1,0 +1,35 @@
+{
+  "name": "foosball-league",
+  "version": "0.0.1",
+  "description": "Elo based league for foosball competitions",
+  "dependencies": {
+    "rest-io": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-live-server": "0.0.27",
+    "gulp-typescript": "^2.8.2"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBay0r/foosball-league.git"
+  },
+  "keywords": [
+    "foosball",
+    "league",
+    "table",
+    "football",
+    "table",
+    "soccer",
+    "elo"
+  ],
+  "authors": [
+    "Stefan Schacherl <dabay0r@live.de>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBay0r/foosball-league/issues"
+  },
+  "homepage": "https://github.com/TheBay0r/foosball-league#readme"
+}
